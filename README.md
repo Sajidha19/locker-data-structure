@@ -21,7 +21,6 @@ The program demonstrates how locker information can be:
 
 ---
 
-```
 
 ### Locker Attributes
 
