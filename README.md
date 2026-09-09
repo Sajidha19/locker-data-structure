@@ -142,21 +142,6 @@ python locker_data_structure.py
 
 The program automatically creates the locker records and demonstrates the different data structure operations through the console.
 
----
-
-## 📁 Repository Structure
-
-```text
-locker-data-structure/
-│
-├── locker_data_structure.py
-│
-├── README.md
-│
-└── .gitignore
-```
-
----
 
 ## 🎯 Learning Outcomes
 
