@@ -2,11 +2,6 @@
 
 A Python-based **paid locker system** using a **list of dictionaries** to manage locker IDs, occupancy status, mobile numbers, passcodes, and storage time.
 
-> 🎓 **Academic Project**
-> Developed as part of a university programming assignment to demonstrate the practical use of Python data structures and record management.
-
----
-
 ## 📌 Project Overview
 
 This project demonstrates how a locker management system can be represented and manipulated using Python data structures.
@@ -179,23 +174,7 @@ Through this project, I developed practical experience in:
 * Using loops to process collections
 * Applying Python data structures to a practical system
 
----
 
-## 🚀 Future Improvements
-
-The current project focuses on **data structure implementation**. It could be extended into a complete locker management application by adding:
-
-* Interactive user input
-* Locker selection
-* Customer validation
-* Automated storage-time tracking
-* Payment calculation
-* Luggage retrieval
-* Confiscation handling
-* Database integration
-* Graphical user interface (GUI)
-
----
 
 ## 👩‍💻 Project Author
 
@@ -205,7 +184,3 @@ The current project focuses on **data structure implementation**. It could be ex
 This project was developed for academic and portfolio purposes as part of my university programming coursework.
 
 ---
-
-## 📄 License
-
-This project is an academic project created for **educational and portfolio purposes**.
